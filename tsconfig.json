@@ -18,5 +18,5 @@
 		"experimentalDecorators": true,
 		"emitDecoratorMetadata": true
 	},
-	"include": ["src", "public/service-worker.ts"]
+	"include": ["src", "src/service-worker.js"]
 }
