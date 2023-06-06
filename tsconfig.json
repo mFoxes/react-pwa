@@ -18,5 +18,5 @@
 		"experimentalDecorators": true,
 		"emitDecoratorMetadata": true
 	},
-	"include": ["src", "src/service-worker.js"]
+	"include": ["src"]
 }
